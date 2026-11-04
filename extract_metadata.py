@@ -19,6 +19,7 @@ for path in z64_files:
     data = {}
     data['path'] = path[2:]
     data['filename'] = filename
+    data['filesize'] = os.path.getsize(path)
     category = split[3].split(' - ')[1]
     data['category'] = category
     if category == 'GAMES':
@@ -55,6 +56,11 @@ for path in z64_files:
                     data['event'] = event
         elif subcategory == 'TECH':
             pass
+    if 'year' not in data:
+        m = re.search('\\[([0-9]{4})-([0-9]{2})-([0-9]{2}).*\\]', filename)
+        if m:
+            year = m.group(1)
+            data['year'] = year
     metadata.append(data)
 
 print(json.dumps(metadata, indent=2))
