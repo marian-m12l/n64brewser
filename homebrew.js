@@ -41,6 +41,7 @@ function HomebrewTable() {
           React.createElement('th', {}, 'Size'),
           React.createElement('th', {}, 'Category'),
           React.createElement('th', {}, 'Type'),
+          React.createElement('th', {}, 'Author'),
           React.createElement('th', {}, 'Year'),
           React.createElement('th', {}, 'Event')
         )
@@ -51,6 +52,7 @@ function HomebrewTable() {
           React.createElement('td', {}, formatSize(hb.filesize)),
           React.createElement('td', {}, hb.category),
           React.createElement('td', {}, hb.type),
+          React.createElement('td', {}, hb.author),
           React.createElement('td', {}, hb.year),
           React.createElement('td', {}, hb.event)
         ))

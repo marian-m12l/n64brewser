@@ -949,6 +949,7 @@
     "filename": "QOI [2025-02-21 - 21.23] [H].z64",
     "filesize": 819200,
     "category": "DEMO",
+    "author": "DEATH MOON",
     "year": "2025"
   },
   {
@@ -956,6 +957,7 @@
     "filename": "SMPTE [2023-09-26 - 12.56] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -963,6 +965,7 @@
     "filename": "JXL Test [2025-01-25 - 08.56] [H].z64",
     "filesize": 425984,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2025"
   },
   {
@@ -970,6 +973,7 @@
     "filename": "RDPQ Demo [2023-07-24 - 18.26] [H].z64",
     "filesize": 1736704,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -977,6 +981,7 @@
     "filename": "RDPQ Demo [2022-12-12 - 03.42] [H].z64",
     "filesize": 1589248,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2022"
   },
   {
@@ -984,6 +989,7 @@
     "filename": "RDPQ Demo [2023-07-24 - 18.23] [H].z64",
     "filesize": 1736704,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -991,6 +997,7 @@
     "filename": "RDPQ Demo [2022-12-12 - 04.26] [H].z64",
     "filesize": 1589248,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2022"
   },
   {
@@ -998,6 +1005,7 @@
     "filename": "Tetris [2022-08-08 - 20.11] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "PEPSIMAN",
     "year": "2022"
   },
   {
@@ -1005,6 +1013,7 @@
     "filename": "2D Shapes [2024-08-02 - 15.43] [H].z64",
     "filesize": 360448,
     "category": "DEMO",
+    "author": "S4YS",
     "year": "2024"
   },
   {
@@ -1012,6 +1021,7 @@
     "filename": "Software Sprite Map Test [2024-02-26 - 08.08] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "FPGAZUMSPASS",
     "year": "2024"
   },
   {
@@ -1019,6 +1029,7 @@
     "filename": "Raster FX [2021-11-29 - 17.05] [H].z64",
     "filesize": 1207296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -1026,6 +1037,7 @@
     "filename": "Raster FX [2021-11-28 - 18.32] [H].z64",
     "filesize": 1207296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -1033,6 +1045,7 @@
     "filename": "Raster FX [2021-11-29 - 17.18] [H].z64",
     "filesize": 1207296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -1040,6 +1053,7 @@
     "filename": "Raster FX [2021-11-29 - 16.52] [H].z64",
     "filesize": 1207296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -1047,6 +1061,7 @@
     "filename": "Image Size [2023-09-09 - 16.20] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -1054,6 +1069,7 @@
     "filename": "Image Size [2023-09-09 - 15.08] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -1061,6 +1077,7 @@
     "filename": "Image Size [2023-09-09 - 16.28] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -1068,6 +1085,7 @@
     "filename": "RDPQ Demo [2022-09-03 - 19.32] [H].z64",
     "filesize": 1589248,
     "category": "DEMO",
+    "author": "PEPSIMAN",
     "year": "2022"
   },
   {
@@ -1075,6 +1093,7 @@
     "filename": "VI Resolution Test [2022-10-25 - 18.39] [H].z64",
     "filesize": 1359872,
     "category": "DEMO",
+    "author": "SIMER",
     "year": "2022"
   },
   {
@@ -1082,6 +1101,7 @@
     "filename": "VI Resolution Test [2022-06-03 - 16.40] [H].z64",
     "filesize": 1359872,
     "category": "DEMO",
+    "author": "SIMER",
     "year": "2022"
   },
   {
@@ -1089,6 +1109,7 @@
     "filename": "240p Suite [2022-03-08 - 00.15] [H].z64",
     "filesize": 6735872,
     "category": "DEMO",
+    "author": "LINUX_JEFF",
     "year": "2022"
   },
   {
@@ -1096,6 +1117,7 @@
     "filename": "Tiled RDPQ Test (Rev. 2) [2022-11-21 - 14.02] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "PEPSIMAN",
     "year": "2022"
   },
   {
@@ -1103,6 +1125,7 @@
     "filename": "Tiled RDPQ Test (Rev. 2 - Updated) [2022-11-23 - 19.40] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "PEPSIMAN",
     "year": "2022"
   },
   {
@@ -1110,6 +1133,7 @@
     "filename": "Tiled RDPQ Test (FPS Layer) [2022-11-25 - 11.40] [H].z64",
     "filesize": 1097728,
     "category": "DEMO",
+    "author": "PEPSIMAN",
     "year": "2022"
   },
   {
@@ -1117,6 +1141,7 @@
     "filename": "Tiled RDPQ Test [2022-11-18 - 19.00] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "PEPSIMAN",
     "year": "2022"
   },
   {
@@ -1124,6 +1149,7 @@
     "filename": "Tiled RDPQ Test (Rev. 2) [2022-11-23 - 16.52] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "PEPSIMAN",
     "year": "2022"
   },
   {
@@ -1131,6 +1157,7 @@
     "filename": "Tiled RDPQ Test (FPS Layer - Validator) [2022-11-25 - 15.44] [H].z64",
     "filesize": 1097728,
     "category": "DEMO",
+    "author": "PEPSIMAN",
     "year": "2022"
   },
   {
@@ -1138,6 +1165,7 @@
     "filename": "Interlace Test - PAL [2024-06-09 - 19.49] [H].z64",
     "filesize": 180224,
     "category": "DEMO",
+    "author": "THE_KOVIC",
     "year": "2024"
   },
   {
@@ -1145,6 +1173,7 @@
     "filename": "Interlace Test [2024-07-12 - 07.46] [H].z64",
     "filesize": 180224,
     "category": "DEMO",
+    "author": "THE_KOVIC",
     "year": "2024"
   },
   {
@@ -1152,6 +1181,7 @@
     "filename": "Interlace Test - NTSC [2024-06-09 - 19.49] [H].z64",
     "filesize": 180224,
     "category": "DEMO",
+    "author": "THE_KOVIC",
     "year": "2024"
   },
   {
@@ -1159,6 +1189,7 @@
     "filename": "Perlin Test [2025-03-15 - 20.24] [H].z64",
     "filesize": 245760,
     "category": "DEMO",
+    "author": "ROSIE",
     "year": "2025"
   },
   {
@@ -1166,6 +1197,7 @@
     "filename": "240p Suite [2022-02-21 - 10.11] [H].z64",
     "filesize": 6421760,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2022"
   },
   {
@@ -1173,6 +1205,7 @@
     "filename": "VIFX - ED Reg. [2024-12-12 - 16.39] [H].z64",
     "filesize": 360448,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1180,6 +1213,7 @@
     "filename": "VIFX [2024-12-03 - 18.12] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1187,6 +1221,7 @@
     "filename": "VIFX [2024-12-01 - 18.30] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1194,6 +1229,7 @@
     "filename": "VIFX [2024-12-04 - 09.05] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1201,6 +1237,7 @@
     "filename": "VIFX [2024-12-01 - 18.05] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1208,6 +1245,7 @@
     "filename": "VIFX [2024-12-04 - 12.06] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1215,6 +1253,7 @@
     "filename": "VIFX - SMPTE Bars [2024-12-05 - 12.32] [H].z64",
     "filesize": 344064,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1222,6 +1261,7 @@
     "filename": "VIFX - SMPTE Bars [2025-01-01 - 12.54] [H].z64",
     "filesize": 344064,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2025"
   },
   {
@@ -1229,6 +1269,7 @@
     "filename": "VIFX [2024-12-04 - 09.26] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1236,6 +1277,7 @@
     "filename": "VIFX [2024-12-02 - 07.28] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1243,6 +1285,7 @@
     "filename": "VIFX [2024-12-01 - 19.29] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1250,6 +1293,7 @@
     "filename": "VIFX [2024-12-01 - 19.52] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1257,6 +1301,7 @@
     "filename": "VIFX [2024-12-02 - 08.42] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1264,6 +1309,7 @@
     "filename": "VIFX [2024-12-01 - 19.38] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1271,6 +1317,7 @@
     "filename": "VIFX [2024-12-03 - 18.28] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1278,6 +1325,7 @@
     "filename": "VIFX [2024-12-04 - 06.31] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1285,6 +1333,7 @@
     "filename": "VIFX [2024-12-04 - 11.11] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1292,6 +1341,7 @@
     "filename": "VIFX [2024-12-01 - 05.39] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1299,6 +1349,7 @@
     "filename": "VIFX [2024-12-04 - 02.52] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1306,6 +1357,7 @@
     "filename": "VIFX [2024-12-01 - 17.23] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1313,6 +1365,7 @@
     "filename": "VIFX [2024-12-03 - 18.02] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1320,6 +1373,7 @@
     "filename": "VIFX [2024-12-01 - 18.25] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1327,6 +1381,7 @@
     "filename": "VIFX [2024-11-30 - 19.05] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1334,6 +1389,7 @@
     "filename": "VIFX [2024-12-02 - 08.32] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1341,6 +1397,7 @@
     "filename": "VIFX - SMPTE Bars [2024-12-11 - 18.53] [H].z64",
     "filesize": 360448,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1348,6 +1405,7 @@
     "filename": "VIFX [2024-12-03 - 18.34] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1355,6 +1413,7 @@
     "filename": "VIFX [2024-12-04 - 03.31] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1362,6 +1421,7 @@
     "filename": "VIFX [2024-12-05 - 12.02] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1369,6 +1429,7 @@
     "filename": "VIFX [2024-11-30 - 19.13] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1376,6 +1437,7 @@
     "filename": "VIFX [2024-12-01 - 17.03] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1383,6 +1445,7 @@
     "filename": "VIFX [2024-12-08 - 17.30] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1390,6 +1453,7 @@
     "filename": "VIFX [2024-12-01 - 19.22] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1397,6 +1461,7 @@
     "filename": "VIFX [2024-12-04 - 09.13] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1404,6 +1469,7 @@
     "filename": "VIFX [2024-12-01 - 17.53] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1411,6 +1477,7 @@
     "filename": "VIFX [2024-12-08 - 17.36] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1418,6 +1485,7 @@
     "filename": "VIFX [2024-12-04 - 02.46] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1425,6 +1493,7 @@
     "filename": "VIFX [2024-12-03 - 19.13] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1432,6 +1501,7 @@
     "filename": "VIFX [2024-12-03 - 18.45] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1439,6 +1509,7 @@
     "filename": "VIFX - ED Reg. [2024-12-12 - 04.32] [H].z64",
     "filesize": 360448,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1446,6 +1517,7 @@
     "filename": "VIFX - SMPTE Bars [2024-12-11 - 18.20] [H].z64",
     "filesize": 360448,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1453,6 +1525,7 @@
     "filename": "VIFX [2024-11-30 - 19.23] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1460,6 +1533,7 @@
     "filename": "VIFX [2024-12-04 - 09.22] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1467,6 +1541,7 @@
     "filename": "VIFX [2024-12-02 - 09.48] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1474,6 +1549,7 @@
     "filename": "VIFX [2024-12-03 - 18.07] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1481,6 +1557,7 @@
     "filename": "VIFX [2024-12-02 - 08.39] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1488,6 +1565,7 @@
     "filename": "VIFX [2024-12-03 - 19.33] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1495,6 +1573,7 @@
     "filename": "VIFX [2024-12-01 - 16.34] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1502,6 +1581,7 @@
     "filename": "VIFX - SMPTE Bars [2024-12-11 - 16.07] [H].z64",
     "filesize": 360448,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1509,6 +1589,7 @@
     "filename": "VIFX [2024-12-04 - 06.41] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1516,6 +1597,7 @@
     "filename": "VIFX [2024-12-01 - 17.33] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1523,6 +1605,7 @@
     "filename": "VIFX [2024-12-05 - 12.37] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1530,6 +1613,7 @@
     "filename": "VIFX [2024-12-04 - 09.16] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1537,6 +1621,7 @@
     "filename": "VIFX [2024-12-03 - 18.24] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1544,6 +1629,7 @@
     "filename": "VIFX [2024-12-01 - 18.19] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1551,6 +1637,7 @@
     "filename": "VIFX [2024-12-03 - 19.22] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1558,6 +1645,7 @@
     "filename": "VIFX [2024-12-04 - 06.50] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1565,6 +1653,7 @@
     "filename": "VIFX [2024-12-01 - 16.03] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1572,6 +1661,7 @@
     "filename": "VIFX [2024-12-01 - 17.05] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1579,6 +1669,7 @@
     "filename": "VIFX - SMPTE Bars [2024-12-09 - 11.31] [H].z64",
     "filesize": 344064,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1586,6 +1677,7 @@
     "filename": "VIFX [2024-12-01 - 18.48] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1593,6 +1685,7 @@
     "filename": "VIFX [2024-12-04 - 09.14] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1600,6 +1693,7 @@
     "filename": "VIFX [2024-12-04 - 03.13] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1607,6 +1701,7 @@
     "filename": "VIFX - SMPTE Bars [2024-12-13 - 05.24] [H].z64",
     "filesize": 360448,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1614,6 +1709,7 @@
     "filename": "VI Resolution Test [2022-11-13 - 10.49] [H].z64",
     "filesize": 1359872,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2022"
   },
   {
@@ -1621,6 +1717,7 @@
     "filename": "VI Resolution Test [2022-10-17 - 12.42] [H].z64",
     "filesize": 1359872,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2022"
   },
   {
@@ -1628,6 +1725,7 @@
     "filename": "Software Sprite Map Test - Dedither [2023-08-15 - 13.36] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1635,6 +1733,7 @@
     "filename": "Software Sprite Map Test - Resamp. Dedither [2023-08-15 - 13.36] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1642,6 +1741,7 @@
     "filename": "N64-Horror (Artsoft Logo) [2022-11-07 - 18.15] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -1649,6 +1749,7 @@
     "filename": "N64-Horror (Artsoft Logo) [2022-11-07 - 17.28] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -1656,6 +1757,7 @@
     "filename": "N64-Horror - Purple Edition (Artsoft Logo) [2022-11-07 - 18.20] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -1663,6 +1765,7 @@
     "filename": "Sprite Flip Test [2025-05-05 - 15.01] [H].z64",
     "filesize": 344064,
     "category": "DEMO",
+    "author": "VISUALCULTURE",
     "year": "2025"
   },
   {
@@ -1670,6 +1773,7 @@
     "filename": "Background (Vanilla) [2021-10-20 - 11.34] [H].z64",
     "filesize": 2282496,
     "category": "DEMO",
+    "author": "SIMER",
     "year": "2021"
   },
   {
@@ -1677,6 +1781,7 @@
     "filename": "Background (Origin Mod) [2021-10-20 - 11.34] [H].z64",
     "filesize": 2282496,
     "category": "DEMO",
+    "author": "SIMER",
     "year": "2021"
   },
   {
@@ -1684,6 +1789,7 @@
     "filename": "Banana Rotate [2023-11-15 - 13.42] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "ROSIE",
     "year": "2023"
   },
   {
@@ -1691,6 +1797,7 @@
     "filename": "UNFLoader (CWC Level Pack) [2021-10-06 - 04.00] [H].z64",
     "filesize": 9289908,
     "category": "DEMO",
+    "author": "RETRO-HAX",
     "year": "2021"
   },
   {
@@ -1698,6 +1805,7 @@
     "filename": "UNFLoader (RM2C Test) [2021-10-27 - 14.44] [H].z64",
     "filesize": 7412024,
     "category": "DEMO",
+    "author": "RETRO-HAX",
     "year": "2021"
   },
   {
@@ -1705,6 +1813,7 @@
     "filename": "unity4N64legit_novirus [2022-06-25 - 18.19] [H].z64",
     "filesize": 3012505,
     "category": "DEMO",
+    "author": "SQUIDDY",
     "year": "2022"
   },
   {
@@ -1712,6 +1821,7 @@
     "filename": "Linux [2023-05-23 - 20.02] [H].z64",
     "filesize": 4194304,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -1719,6 +1829,7 @@
     "filename": "Reaction Test [2019-11-10] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "ZWENERGY",
     "year": "2019"
   },
   {
@@ -1726,6 +1837,7 @@
     "filename": "Sort 64 [2024-06-03 - 08.58] [H].z64",
     "filesize": 3063808,
     "category": "DEMO",
+    "author": "N64SQUID",
     "year": "2024"
   },
   {
@@ -1733,6 +1845,7 @@
     "filename": "Real-Time Shadows [2021-12-17 - 00.12] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "LAMBERTJAMES",
     "year": "2021"
   },
   {
@@ -1740,6 +1853,7 @@
     "filename": "First-Person Template [2022-09-12 - 07.34] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -1747,6 +1861,7 @@
     "filename": "GL Demo - Test [2023-07-09 - 16.15] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "DRAGORN421",
     "year": "2023"
   },
   {
@@ -1754,6 +1869,7 @@
     "filename": "GL Demo - Rigged Mesh [2023-08-04 - 23.14] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "DRAGORN421",
     "year": "2023"
   },
   {
@@ -1761,6 +1877,7 @@
     "filename": "Normal Maps (2) [2023-02-24 - 02.48] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1768,6 +1885,7 @@
     "filename": "Normal Map Test (1) [2023-02-16 - 06.06] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1775,6 +1893,7 @@
     "filename": "Normal Map Test (3) [2023-02-18 - 03.00] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1782,6 +1901,7 @@
     "filename": "Normal Map Test (4) [2023-02-18 - 07.12] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1789,6 +1909,7 @@
     "filename": "Normal Map Test (2) [2023-02-16 - 07.02] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1796,6 +1917,7 @@
     "filename": "Normal Maps (2) [2023-02-23 - 03.39] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1803,6 +1925,7 @@
     "filename": "Mars (2) [2023-02-08 - 12.43] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1810,6 +1933,7 @@
     "filename": "Mars (3) [2023-02-08 - 07.25] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1817,6 +1941,7 @@
     "filename": "Mars (1) [2023-02-07 - 05.25] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1824,6 +1949,7 @@
     "filename": "HDR Test Scene [2025-04-20 - 16.39] [H].z64",
     "filesize": 491520,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2025"
   },
   {
@@ -1831,6 +1957,7 @@
     "filename": "Brew Reality [2023-10-10 - 09.39] [H].z64",
     "filesize": 1785856,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1838,6 +1965,7 @@
     "filename": "Brew Reality [2023-10-10 - 09.42] [H].z64",
     "filesize": 1785856,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1845,6 +1973,7 @@
     "filename": "Brew Reality [2023-10-09 - 08.10] [H].z64",
     "filesize": 1785856,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1852,6 +1981,7 @@
     "filename": "Brew Reality [2023-10-10 - 06.26] [H].z64",
     "filesize": 1785856,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1859,6 +1989,7 @@
     "filename": "Brew Reality [2023-10-07 - 11.13] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1866,6 +1997,7 @@
     "filename": "Brew Reality [2023-10-09 - 07.00] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1873,6 +2005,7 @@
     "filename": "Brew Reality [2023-10-10 - 05.29] [H].z64",
     "filesize": 1785856,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1880,6 +2013,7 @@
     "filename": "Brew Reality [2023-10-07 - 10.43] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1887,6 +2021,7 @@
     "filename": "RDP Crash [2023-10-28 - 07.38] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "GUBBLES",
     "year": "2023"
   },
   {
@@ -1894,6 +2029,7 @@
     "filename": "N64 Bullet Demo [2023-12-27] [H].z64",
     "filesize": 901120,
     "category": "DEMO",
+    "author": "ALEXVNESTA",
     "year": "2023"
   },
   {
@@ -1901,6 +2037,7 @@
     "filename": "Tiny3D - 00 - Quad [2024-05-24 - 19.55] [H].z64",
     "filesize": 180224,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -1908,6 +2045,7 @@
     "filename": "Brew Christmas [2024-12-27 - 05.14] [H].z64",
     "filesize": 1605632,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2024"
   },
   {
@@ -1915,6 +2053,7 @@
     "filename": "Brew Christmas [2024-12-27 - 13.45] [H].z64",
     "filesize": 1605632,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2024"
   },
   {
@@ -1922,6 +2061,7 @@
     "filename": "Tiny3D - 00 - Quad [2024-11-18 - 09.07] [H].z64",
     "filesize": 245760,
     "category": "DEMO",
+    "author": "GVALIENTE",
     "year": "2024"
   },
   {
@@ -1929,6 +2069,7 @@
     "filename": "Tiny3D - 99 - Test Scene [2022-11-18 - 04.50] [H].z64",
     "filesize": 344064,
     "category": "DEMO",
+    "author": "GVALIENTE",
     "year": "2022"
   },
   {
@@ -1936,6 +2077,7 @@
     "filename": "GL Demo [2023-07-13 - 11.37] [H].z64",
     "filesize": 1163264,
     "category": "DEMO",
+    "author": "ZONCABE",
     "year": "2023"
   },
   {
@@ -1943,6 +2085,7 @@
     "filename": "GL Demo [2024-05-16 - 18.34] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "ZONCABE",
     "year": "2024"
   },
   {
@@ -1950,6 +2093,7 @@
     "filename": "CPP Test\u00a0[2025-03-09 - 12.03] [H].z64",
     "filesize": 245760,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2025"
   },
   {
@@ -1957,6 +2101,7 @@
     "filename": "CPP Test\u00a0[2025-03-09 - 11.11] [H].z64",
     "filesize": 245760,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2025"
   },
   {
@@ -1964,6 +2109,7 @@
     "filename": "Roughness Demo [2023-01-05 - 08.34] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -1971,6 +2117,7 @@
     "filename": "Engine2639 [2023-07-05 - 00.56] [H].z64",
     "filesize": 12337152,
     "category": "DEMO",
+    "author": "SOMEONE2639",
     "year": "2023"
   },
   {
@@ -1978,6 +2125,7 @@
     "filename": "Nu0 - Interframe Colors (POTENTIAL EPILEPSY TRIGGER) [2022-09-08 - 19.02] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -1985,6 +2133,7 @@
     "filename": "Render Test [2022-12-09 - 17.56] [H].z64",
     "filesize": 2764888,
     "category": "DEMO",
+    "author": "SPAZTRON64",
     "year": "2022"
   },
   {
@@ -1992,6 +2141,7 @@
     "filename": "Render Test (F3DEX2) [2022-12-09 - 18.35] [H].z64",
     "filesize": 2569840,
     "category": "DEMO",
+    "author": "SPAZTRON64",
     "year": "2022"
   },
   {
@@ -1999,6 +2149,7 @@
     "filename": "Render Test [2023-04-17 - 14.33] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPAZTRON64",
     "year": "2023"
   },
   {
@@ -2006,6 +2157,7 @@
     "filename": "Tiny 3D - 99 - Test Scene Special - NTSC [2025-04-26 - 14.44] [H].z64",
     "filesize": 360448,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2025"
   },
   {
@@ -2013,6 +2165,7 @@
     "filename": "Tiny 3D - 99 - Test Scene Special - PAL [2025-04-26 - 14.44] [H].z64",
     "filesize": 360448,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2025"
   },
   {
@@ -2020,6 +2173,7 @@
     "filename": "Tiny 3D - HDR [2025-04-19 - 04.44] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2025"
   },
   {
@@ -2027,6 +2181,7 @@
     "filename": "Alpha Blend Env. Test - No Pak [2022-07-01 - 07.03] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -2034,6 +2189,7 @@
     "filename": "Alpha Blend Env. Test - Fixed [2022-07-01 - 06.59] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -2041,6 +2197,7 @@
     "filename": "16D Move Z-Buf. Outside Block [2025-05-18 - 14.34] [H].z64",
     "filesize": 360448,
     "category": "DEMO",
+    "author": "GUBBLES",
     "year": "2025"
   },
   {
@@ -2048,6 +2205,7 @@
     "filename": "BSP View [2025-05-13 - 16.41] [H].z64",
     "filesize": 1671168,
     "category": "DEMO",
+    "author": "JENS",
     "year": "2025"
   },
   {
@@ -2055,6 +2213,7 @@
     "filename": "BSP View [2024-05-27 - 11.34] [H].z64",
     "filesize": 1294336,
     "category": "DEMO",
+    "author": "JENS",
     "year": "2024"
   },
   {
@@ -2062,6 +2221,7 @@
     "filename": "BSP View [2024-05-14 - 14.32] [H].z64",
     "filesize": 1212416,
     "category": "DEMO",
+    "author": "JENS",
     "year": "2024"
   },
   {
@@ -2069,6 +2229,7 @@
     "filename": "02 Orbital Cam [2025-04-25 - 21.48] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "GUBBLES",
     "year": "2025"
   },
   {
@@ -2076,6 +2237,7 @@
     "filename": "Brew64 - Logo (320x480i) [2022-09-05 - 01.20] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -2083,6 +2245,7 @@
     "filename": "Brew64 - Logo [2022-09-04 - 21.27] (2) [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -2090,6 +2253,7 @@
     "filename": "Brew64 - Logo [2022-09-04 - 19.14] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -2097,6 +2261,7 @@
     "filename": "Brew64 - Logo [2022-09-04 - 19.21] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -2104,6 +2269,7 @@
     "filename": "Brew64 - Logo [2022-09-04 - 21.27] (1) [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -2111,6 +2277,7 @@
     "filename": "GL Demo [2023-11-21 - 10.28] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -2118,6 +2285,7 @@
     "filename": "GL Demo [2023-11-29 - 16.57] [H].z64",
     "filesize": 507904,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -2125,6 +2293,7 @@
     "filename": "GL Demo [2023-12-06 - 11.59] [H].z64",
     "filesize": 327680,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -2132,6 +2301,7 @@
     "filename": "GL Demo [2023-11-21 - 07.37] [H].z64",
     "filesize": 524288,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -2139,6 +2309,7 @@
     "filename": "GL Demo [2023-11-21 - 10.48] [H].z64",
     "filesize": 524288,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -2146,6 +2317,7 @@
     "filename": "GL Demo (6105) [2023-11-24 - 11.20] [H].z64",
     "filesize": 507904,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -2153,6 +2325,7 @@
     "filename": "Untitled Game Project - Title Screen [2022-11-08 - 13.51] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "ARTHUR",
     "year": "2022"
   },
   {
@@ -2160,6 +2333,7 @@
     "filename": "Toon Shading [2022-01-13] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "LAMBERTJAMES",
     "year": "2022"
   },
   {
@@ -2167,6 +2341,7 @@
     "filename": "Real Time Shadows [2021-12-22] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "LAMBERTJAMES",
     "year": "2021"
   },
   {
@@ -2174,6 +2349,7 @@
     "filename": "Real Time Shadows [2022-01-13] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "LAMBERTJAMES",
     "year": "2022"
   },
   {
@@ -2181,6 +2357,7 @@
     "filename": "Brew Reality [2023-10-25] [H].z64",
     "filesize": 1802240,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -2188,6 +2365,7 @@
     "filename": "GL Demo (Chaos Monkey) [2023-11-14 - 14.51] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "TYKKIMAN",
     "year": "2023"
   },
   {
@@ -2195,6 +2373,7 @@
     "filename": "GL Demo (Chaos Monkey) [2023-11-14 - 16.22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "TYKKIMAN",
     "year": "2023"
   },
   {
@@ -2202,6 +2381,7 @@
     "filename": "Tiny3D - 08 - Animation [2024-04-27 - 18.32] [H].z64",
     "filesize": 278528,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2209,6 +2389,7 @@
     "filename": "Tiny3D - Scene (OpenGL) [2024-01-14 - 12.23] [H].z64",
     "filesize": 344064,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2216,6 +2397,7 @@
     "filename": "Tiny3D - Planets [2024-01-14 - 12.23] [H].z64",
     "filesize": 442368,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2223,6 +2405,7 @@
     "filename": "Tiny3D - 20 - Mipmaps [2025-01-27 - 18.33] [H].z64",
     "filesize": 327680,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2025"
   },
   {
@@ -2230,6 +2413,7 @@
     "filename": "Tiny3D - Test Scene [2024-02-18 - 16.49] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2237,6 +2421,7 @@
     "filename": "Tiny3D - 13 - Cel Shading [2024-07-06 - 22.54] [H].z64",
     "filesize": 344064,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2244,6 +2429,7 @@
     "filename": "Tiny3D - 06 - Offscreen [2024-03-16 - 11.54] [H].z64",
     "filesize": 2473984,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2251,6 +2437,7 @@
     "filename": "Tiny3D - 99 - Test Scene Perf. [2024-03-10 - 08.50] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2258,6 +2445,7 @@
     "filename": "Tiny3D - 02 - Light [2024-03-10 - 08.50] [H].z64",
     "filesize": 229376,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2265,6 +2453,7 @@
     "filename": "Tiny3D - 99 - Test Scene [2024-03-10 - 08.50] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2272,6 +2461,7 @@
     "filename": "Tiny3D - 06 - Skeleton [2024-04-01 - 12.28] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2279,6 +2469,7 @@
     "filename": "Tiny3D - Wuhu Island [2024-02-18 - 16.49] [H].z64",
     "filesize": 393216,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2286,6 +2477,7 @@
     "filename": "Tiny3D - 15 - Pointlight [2024-10-11 - 18.44] [H].z64",
     "filesize": 344064,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2293,6 +2485,7 @@
     "filename": "Tiny3D - 04 - Dynamic [2024-03-10 - 08.50] [H].z64",
     "filesize": 245760,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2300,6 +2493,7 @@
     "filename": "Tiny3D - 17 - Culling [2024-10-19 - 17.42] [H].z64",
     "filesize": 1343488,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2307,6 +2501,7 @@
     "filename": "Tiny3D - Scene [2024-01-14 - 12.23] [H].z64",
     "filesize": 327680,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2314,6 +2509,7 @@
     "filename": "Tiny3D - 21 - Fresnel [2025-01-27 - 18.33] [H].z64",
     "filesize": 409600,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2025"
   },
   {
@@ -2321,6 +2517,7 @@
     "filename": "Tiny3D - 18 - Particles [2024-11-10 - 13.33] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2328,6 +2525,7 @@
     "filename": "Tiny3D - 19 - Particles Tex. [2024-12-10 - 19.26] [H].z64",
     "filesize": 278528,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2335,6 +2533,7 @@
     "filename": "Tiny3D - 21 - Big Tex. [2025-03-02 - 19.11] [H].z64",
     "filesize": 1916928,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2025"
   },
   {
@@ -2342,6 +2541,7 @@
     "filename": "Tiny3D - 14 - Outline [2024-07-06 - 22.54] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2349,6 +2549,7 @@
     "filename": "Tiny3D - 03 - Objects [2024-03-10 - 08.50] [H].z64",
     "filesize": 245760,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2356,6 +2557,7 @@
     "filename": "Tiny3D - 01 - Model [2024-03-10 - 08.50] [H].z64",
     "filesize": 229376,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2363,6 +2565,7 @@
     "filename": "Tiny3D - 12 - UV Gen [2024-06-21 - 19.18] [H].z64",
     "filesize": 376832,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2370,6 +2573,7 @@
     "filename": "Tiny3D - 06 - Offscreen [2024-05-21 - 14.27] [H].z64",
     "filesize": 2473984,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2377,6 +2581,7 @@
     "filename": "Tiny3D [2023-12-23 - 14.37] [H].z64",
     "filesize": 278528,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2023"
   },
   {
@@ -2384,6 +2589,7 @@
     "filename": "Tiny3D - 00 - Quad [2024-05-21 - 16.44] [H].z64",
     "filesize": 180224,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2391,6 +2597,7 @@
     "filename": "Tiny3D - Tex [2025-02-10 - 17.50] [H].z64",
     "filesize": 1474560,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2025"
   },
   {
@@ -2398,6 +2605,7 @@
     "filename": "Tiny3D - 18 - Particles [2024-11-24 - 19.50] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2405,6 +2613,7 @@
     "filename": "Tiny3D - 09 - Anim [2024-04-27 - 18.32] [H].z64",
     "filesize": 327680,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2412,6 +2621,7 @@
     "filename": "Tiny3D - 00 - Quad [2024-03-10 - 08.50] [H].z64",
     "filesize": 180224,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2419,6 +2629,7 @@
     "filename": "Tiny3D - 16 - Light Clip [2024-10-11 - 18.44] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2024"
   },
   {
@@ -2426,6 +2637,7 @@
     "filename": "Micro-UI [2023-09-25 - 17.23] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "HAILTODODONGO",
     "year": "2023"
   },
   {
@@ -2433,6 +2645,7 @@
     "filename": "Bump Map Demo [2022-11-13 - 05.25] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2022"
   },
   {
@@ -2440,6 +2653,7 @@
     "filename": "Bump Map Demo [2022-11-12 - 00.08] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2022"
   },
   {
@@ -2447,6 +2661,7 @@
     "filename": "Bump Map Demo [2022-11-11 - 12.27] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2022"
   },
   {
@@ -2454,6 +2669,7 @@
     "filename": "Shack [2025-03-03 - 04.55] [H].z64",
     "filesize": 311296,
     "category": "DEMO",
+    "author": "SQUIDEE",
     "year": "2025"
   },
   {
@@ -2461,6 +2677,7 @@
     "filename": "Dynamic Sky [2025-02-07 - 07.40] [H].z64",
     "filesize": 376832,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2025"
   },
   {
@@ -2468,6 +2685,7 @@
     "filename": "Dynamic Sky [2025-02-06 - 15.40] [H].z64",
     "filesize": 294912,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2025"
   },
   {
@@ -2475,6 +2693,7 @@
     "filename": "Tiny3D - 09 - Anim [2024-05-16 - 18.24] [H].z64",
     "filesize": 327680,
     "category": "DEMO",
+    "author": "ZONCABE",
     "year": "2024"
   },
   {
@@ -2482,6 +2701,7 @@
     "filename": "Tiny3D - 03 - Objects [2024-05-16 - 18.24] [H].z64",
     "filesize": 229376,
     "category": "DEMO",
+    "author": "ZONCABE",
     "year": "2024"
   },
   {
@@ -2489,6 +2709,7 @@
     "filename": "Tiny3D - 04 - Dynamic [2024-05-16 - 18.24] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "ZONCABE",
     "year": "2024"
   },
   {
@@ -2496,6 +2717,7 @@
     "filename": "Tiny3D - 05 - Splitscreen [2024-05-16 - 18.24] [H].z64",
     "filesize": 262144,
     "category": "DEMO",
+    "author": "ZONCABE",
     "year": "2024"
   },
   {
@@ -2503,6 +2725,7 @@
     "filename": "Tiny3D - 06 - Offscreen [2024-05-16 - 18.24] [H].z64",
     "filesize": 2473984,
     "category": "DEMO",
+    "author": "ZONCABE",
     "year": "2024"
   },
   {
@@ -2510,6 +2733,7 @@
     "filename": "Tiny3D - 08 - Animation [2024-05-16 - 18.24] [H].z64",
     "filesize": 278528,
     "category": "DEMO",
+    "author": "ZONCABE",
     "year": "2024"
   },
   {
@@ -2517,6 +2741,7 @@
     "filename": "RDP - Cube [2019-12-01 - 19.34] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "KROM",
     "year": "2019"
   },
   {
@@ -2524,6 +2749,7 @@
     "filename": "RDP - N64 Logo [2019-12-05 - 00.20] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "KROM",
     "year": "2019"
   },
   {
@@ -2531,6 +2757,7 @@
     "filename": "GL Demo - Resample Dedither [2023-08-21 - 03.59] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -2538,6 +2765,7 @@
     "filename": "GL Demo - Libdragon Teapot [2023-05-26 - 15.22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -2545,6 +2773,7 @@
     "filename": "GL Demo [2023-03-05 - 06.22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -2552,6 +2781,7 @@
     "filename": "GL Demo [2023-03-05 - 06.34] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -2559,6 +2789,7 @@
     "filename": "GL Demo - Dedither [2023-08-21 - 03.59] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -2566,6 +2797,7 @@
     "filename": "1M Flash Test [2022-08-27 - 20.09] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "CRASHOVERIDE",
     "year": "2022"
   },
   {
@@ -2573,6 +2805,7 @@
     "filename": "ucode Test [2023-03-11 - 09.53] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "SPOOKYILUHA",
     "year": "2023"
   },
   {
@@ -2580,6 +2813,7 @@
     "filename": "EEPROM Test Program [2022-08-27 - 20.02] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "CRASHOVERIDE",
     "year": "2022"
   },
   {
@@ -2587,6 +2821,7 @@
     "filename": "Joypad Transfer Pak Test (V2.0) [2023-08-22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2023"
   },
   {
@@ -2594,6 +2829,7 @@
     "filename": "N64-GCN Joypad Subsystem Test [2023-08-22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2023"
   },
   {
@@ -2601,6 +2837,7 @@
     "filename": "Bio Sensor Subsystem Test (V4.0) [2023-08-22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2023"
   },
   {
@@ -2608,6 +2845,7 @@
     "filename": "N64 Controller Pak Dump (V2.0) [2023-08-22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2023"
   },
   {
@@ -2615,6 +2853,7 @@
     "filename": "N64 Accessory Short Write Test (V1.0) [2023-08-22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2023"
   },
   {
@@ -2622,6 +2861,7 @@
     "filename": "Snap Station Test (V4.0) [2023-08-22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2023"
   },
   {
@@ -2629,6 +2869,7 @@
     "filename": "GB Camera Test (V1.0) [2023-08-22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2023"
   },
   {
@@ -2636,6 +2877,7 @@
     "filename": "Joypad Accessory Probe Test (V5.0) [2023-08-22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2023"
   },
   {
@@ -2643,6 +2885,7 @@
     "filename": "Accessory Test [2023-08-22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2023"
   },
   {
@@ -2650,6 +2893,7 @@
     "filename": "Libdragon Save Type Detection Test [2022-02-16] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2022"
   },
   {
@@ -2657,6 +2901,7 @@
     "filename": "RandNET Keyboard Test [2022-02-16] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2022"
   },
   {
@@ -2664,6 +2909,7 @@
     "filename": "CPP Test [2021-01-26 - 21.24] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -2671,6 +2917,7 @@
     "filename": "CPP Test [2021-01-26 - 21.31] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -2678,6 +2925,7 @@
     "filename": "H264 RSP Decoder Tests [2022-01-07 - 18.19] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2022"
   },
   {
@@ -2685,6 +2933,7 @@
     "filename": "H264 RSP Decoder Tests [2022-07-12 - 18.45] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2022"
   },
   {
@@ -2692,6 +2941,7 @@
     "filename": "H264 RSP Decoder Tests [2022-07-12 - 07.57] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2022"
   },
   {
@@ -2699,6 +2949,7 @@
     "filename": "LibDragon Controller Subsystem Test [2023-12-12 - 18.31] [H].z64",
     "filesize": 131072,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -2706,6 +2957,7 @@
     "filename": "Controller Test [2022-05-29 - 22.04] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2022"
   },
   {
@@ -2713,6 +2965,7 @@
     "filename": "Delta Time Test [2020-10-17 - 08.30] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "DELETED USER",
     "year": "2020"
   },
   {
@@ -2720,6 +2973,7 @@
     "filename": "LibDragon Save Type Detection Test [2021-11-30 - 11.14] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -2727,6 +2981,7 @@
     "filename": "SI-Test [2021-09-14 - 17.53] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2734,6 +2989,7 @@
     "filename": "SI-Test [2021-09-12 - 21.44] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2741,6 +2997,7 @@
     "filename": "SI-Test [2021-09-14 - 03.50] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2748,6 +3005,7 @@
     "filename": "SI-Test [2021-09-14 - 17.42] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2755,6 +3013,7 @@
     "filename": "SI-Test [2021-09-27 - 11.17] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2762,6 +3021,7 @@
     "filename": "SI-Test [2021-09-27 - 11.31] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2769,6 +3029,7 @@
     "filename": "SI-Test [2021-09-13 - 19.25] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2776,6 +3037,7 @@
     "filename": "SI-Test [2021-09-13 - 17.28] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2783,6 +3045,7 @@
     "filename": "SI-Test [2022-02-13 - 22.49] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2022"
   },
   {
@@ -2790,6 +3053,7 @@
     "filename": "SI-Test [2021-09-27 - 12.51] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2797,6 +3061,7 @@
     "filename": "SI-Test [2021-09-27 - 11.54] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2804,6 +3069,7 @@
     "filename": "SI-Test [2021-09-27 - 12.49] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2811,6 +3077,7 @@
     "filename": "SI-Test [2021-09-13 - 20.30] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2818,6 +3085,7 @@
     "filename": "SI-Test [2021-09-14 - 15.02] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2825,6 +3093,7 @@
     "filename": "SI-Test [2021-09-13 - 02.29] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2832,6 +3101,7 @@
     "filename": "SI-Test [2021-09-13 - 18.53] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2839,6 +3109,7 @@
     "filename": "SI-Test [2021-09-12 - 20.28] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2846,6 +3117,7 @@
     "filename": "SI-Test [2021-09-13 - 13.42] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2853,6 +3125,7 @@
     "filename": "SI-Test [2021-09-16 - 00.00] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2860,6 +3133,7 @@
     "filename": "SI-Test [2021-09-27 - 12.23] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2867,6 +3141,7 @@
     "filename": "SI-Test [2021-09-27 - 11.00] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2874,6 +3149,7 @@
     "filename": "SI-Test [2021-09-13 - 19.00] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2881,6 +3157,7 @@
     "filename": "SI-Test [2021-09-13 - 15.36] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2888,6 +3165,7 @@
     "filename": "SI-Test [2021-09-26 - 11.30] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2895,6 +3173,7 @@
     "filename": "SI-Test [2021-09-26 - 15.22] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2902,6 +3181,7 @@
     "filename": "SI-Test [2021-09-27 - 11.45] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2909,6 +3189,7 @@
     "filename": "SI-Test [2021-09-13 - 19.17] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2916,6 +3197,7 @@
     "filename": "SI-Test [2021-09-27 - 10.50] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2923,6 +3205,7 @@
     "filename": "SI-Test [2021-09-26 - 19.36] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -2930,6 +3213,7 @@
     "filename": "SM64 Debug Trainer [2021-07-26 - 10.13] [H].z64",
     "filesize": 8388608,
     "category": "DEMO",
+    "author": "DEDOK179",
     "year": "2021"
   },
   {
@@ -2937,6 +3221,7 @@
     "filename": "SM64 Debug Trainer [2021-07-20 - 17.10] [H].z64",
     "filesize": 8388608,
     "category": "DEMO",
+    "author": "DEDOK179",
     "year": "2021"
   },
   {
@@ -2944,6 +3229,7 @@
     "filename": "SM64 Debug Trainer [2021-07-21 - 01.53] [H].z64",
     "filesize": 8388608,
     "category": "DEMO",
+    "author": "DEDOK179",
     "year": "2021"
   },
   {
@@ -2951,6 +3237,7 @@
     "filename": "SM64 Debug Trainer [2021-07-26 - 09.45] [H].z64",
     "filesize": 8388608,
     "category": "DEMO",
+    "author": "DEDOK179",
     "year": "2021"
   },
   {
@@ -2958,6 +3245,7 @@
     "filename": "SM64 Debug Trainer [2021-07-15 - 06.03] [H].z64",
     "filesize": 8388608,
     "category": "DEMO",
+    "author": "DEDOK179",
     "year": "2021"
   },
   {
@@ -2965,6 +3253,7 @@
     "filename": "SM64 Debug Trainer [2021-07-27 - 17.04] [H].z64",
     "filesize": 8388608,
     "category": "DEMO",
+    "author": "DEDOK179",
     "year": "2021"
   },
   {
@@ -2972,6 +3261,7 @@
     "filename": "SM64 Debug Trainer [2021-07-21 - 10.28] [H].z64",
     "filesize": 8388608,
     "category": "DEMO",
+    "author": "DEDOK179",
     "year": "2021"
   },
   {
@@ -2979,6 +3269,7 @@
     "filename": "RTC Test [2021-07-19 - 17.12] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -2986,6 +3277,7 @@
     "filename": "RTC Test [2021-07-19 - 20.05] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -2993,6 +3285,7 @@
     "filename": "RTC Test [2021-07-17 - 20.55] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3000,6 +3293,7 @@
     "filename": "RTC Test [2021-07-18 - 21.47] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3007,6 +3301,7 @@
     "filename": "RTC Test [2021-07-19 - 16.13] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3014,6 +3309,7 @@
     "filename": "RTC Test [2021-07-20 - 14.12] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3021,6 +3317,7 @@
     "filename": "RTC Test [2021-07-19 - 17.31] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3028,6 +3325,7 @@
     "filename": "RTC Test [2021-07-17 - 21.43] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3035,6 +3333,7 @@
     "filename": "RTC Test [2021-07-17 - 22.10] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3042,6 +3341,7 @@
     "filename": "RTC Test [2021-07-18 - 20.10] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3049,6 +3349,7 @@
     "filename": "USB64 - Controller Input Test [2020-08-19 - 8.36] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "RYZEE119",
     "year": "2020"
   },
   {
@@ -3056,6 +3357,7 @@
     "filename": "USB64 - Controller Input Test [2020-07-31 - 2.49] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "RYZEE119",
     "year": "2020"
   },
   {
@@ -3063,6 +3365,7 @@
     "filename": "Testing [2022-02-24 - 17.42] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "WISEGUY",
     "year": "2022"
   },
   {
@@ -3070,6 +3373,7 @@
     "filename": "Mandarin Testing Software Debugger (V0.4) [2021-12-24 - 17.39] [H].z64",
     "filesize": 1376256,
     "category": "DEMO",
+    "author": "IZZINT",
     "year": "2021"
   },
   {
@@ -3077,6 +3381,7 @@
     "filename": "TimingReadsWrites Test [2021-09-20 - 17.14] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -3084,6 +3389,7 @@
     "filename": "TimingReadsWrites Test [2021-09-20 - 12.24] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -3091,6 +3397,7 @@
     "filename": "Libdragon Test Suite [2021-11-15 - 15.04] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3098,6 +3405,7 @@
     "filename": "Libdragon Test Suite [2021-11-15 - 15.09] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3105,6 +3413,7 @@
     "filename": "Libdragon Test Suite [2021-11-14 - 07.10] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3112,6 +3421,7 @@
     "filename": "Libdragon Test Suite [2021-09-07 - 09.54] [H].z64",
     "filesize": 1065984,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3119,6 +3429,7 @@
     "filename": "Libdragon Test Suite [2021-11-15 - 12.56] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3126,6 +3437,7 @@
     "filename": "Libdragon Test Suite [2021-11-14 - 13.50] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3133,6 +3445,7 @@
     "filename": "Libdragon Test Suite [2021-09-07 - 10.16] [H].z64",
     "filesize": 1065984,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3140,6 +3453,7 @@
     "filename": "Libdragon Test Suite [2021-11-14 - 18.23] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3147,6 +3461,7 @@
     "filename": "Libdragon Test Suite [2021-11-14 - 16.21] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3154,6 +3469,7 @@
     "filename": "Libdragon Test Suite (Emu.) [2022-01-12 - 18.27] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2022"
   },
   {
@@ -3161,6 +3477,7 @@
     "filename": "Libdragon Test Suite [2021-11-15 - 15.17] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3168,6 +3485,7 @@
     "filename": "Libdragon Test Suite [2021-11-14 - 18.13] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3175,6 +3493,7 @@
     "filename": "Libdragon Test Suite [2021-11-15 - 12.46] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3182,6 +3501,7 @@
     "filename": "Libdragon Test Suite [2021-11-14 - 18.16] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3189,6 +3509,7 @@
     "filename": "Libdragon Test Suite [2021-11-14 - 17.53] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3196,6 +3517,7 @@
     "filename": "Libdragon Test Suite [2021-11-14 - 16.29] [H].z64",
     "filesize": 1081344,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3203,6 +3525,7 @@
     "filename": "N64 System Test [2022-10-04 - 14.55] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2022"
   },
   {
@@ -3210,6 +3533,7 @@
     "filename": "N64 System Test [2022-10-04 - 02.07] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2022"
   },
   {
@@ -3217,6 +3541,7 @@
     "filename": "Register Masks Test [2021-11-13 - 02.31] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -3224,6 +3549,7 @@
     "filename": "Register Masks Test [2021-11-13 - 12.10] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -3231,6 +3557,7 @@
     "filename": "ExploringTheUnknown [2021-07-02 - 16.16] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -3238,6 +3565,7 @@
     "filename": "ExploringTheUnknown [2021-07-02 - 17.53] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -3245,6 +3573,7 @@
     "filename": "ExploringTheUnknown [2021-07-07 - 13.44] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -3252,6 +3581,7 @@
     "filename": "LibDragon Joypad Subsystem Test [2023-12-13 - 06.39] [H].z64",
     "filesize": 81920,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -3259,6 +3589,7 @@
     "filename": "LibDragon Joypad Subsystem Test [2023-12-12 - 19.34] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -3266,6 +3597,7 @@
     "filename": "LibDragon Joypad Subsystem Test [2023-12-12 - 18.31] [H].z64",
     "filesize": 147456,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -3273,6 +3605,7 @@
     "filename": "LibDragon Joypad Subsystem Test [2023-12-12 - 19.28] [H].z64",
     "filesize": 49152,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -3280,6 +3613,7 @@
     "filename": "LibDragon Joypad Subsystem Test [2023-12-12 - 19.05] [H].z64",
     "filesize": 147456,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -3287,6 +3621,7 @@
     "filename": "N64 System Bench (V1.0) [2022-08-09 - 17.51] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2022"
   },
   {
@@ -3294,6 +3629,7 @@
     "filename": "N64 System Bench (V1.0) [2022-08-09 - 18.12] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2022"
   },
   {
@@ -3301,6 +3637,7 @@
     "filename": "N64 System Test (V2.0.4) [2024-02-16 - 19.51] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -3308,6 +3645,7 @@
     "filename": "N64 System Test (V2.0.5) [2024-02-17 - 12.59] [H].z64",
     "filesize": 3145728,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2024"
   },
   {
@@ -3315,6 +3653,7 @@
     "filename": "N64 System Test (V2.0.2) [2023-04-22 - 19.57] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2023"
   },
   {
@@ -3322,6 +3661,7 @@
     "filename": "Tiny Scheme 64 [2023-07-06] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "8BITPRODIGY",
     "year": "2023"
   },
   {
@@ -3329,6 +3669,7 @@
     "filename": "RTC Test [2025-03-02 - 18.06] [H].z64",
     "filesize": 180224,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2025"
   },
   {
@@ -3336,6 +3677,7 @@
     "filename": "RTC Test [2025-03-03 - 12.24] [H].z64",
     "filesize": 212992,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2025"
   },
   {
@@ -3343,6 +3685,7 @@
     "filename": "RTC Test [2025-03-02 - 17.44] [H].z64",
     "filesize": 196608,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2025"
   },
   {
@@ -3350,6 +3693,7 @@
     "filename": "RTC Test [2025-03-02 - 17.33] [H].z64",
     "filesize": 212992,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2025"
   },
   {
@@ -3357,6 +3701,7 @@
     "filename": "RTC Test [2025-03-03 - 07.13] [H].z64",
     "filesize": 212992,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2025"
   },
   {
@@ -3364,6 +3709,7 @@
     "filename": "RTC Test [2025-03-03 - 09.59] [H].z64",
     "filesize": 212992,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2025"
   },
   {
@@ -3371,6 +3717,7 @@
     "filename": "Controller Test (SRAM) [2021-07-28 - 19.33] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3378,6 +3725,7 @@
     "filename": "Controller Test (EEPROM 16k) [2021-07-06 - 16.25] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3385,6 +3733,7 @@
     "filename": "Controller Test (RTC + EEPROM 16k) [2021-07-06 - 21.18] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3392,6 +3741,7 @@
     "filename": "Controller Test (SRAM - Take 4) [2021-07-30 - 15.00] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3399,6 +3749,7 @@
     "filename": "Controller Test (EEPROM 16k) [2021-07-06 - 19.07] [H].z64",
     "filesize": 2097152,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2021"
   },
   {
@@ -3406,6 +3757,7 @@
     "filename": "RI-Range Test [2021-11-10 - 13.24] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -3413,6 +3765,7 @@
     "filename": "RDRAM Manufacturer Check [2025-03-20 - 16.09] [H].z64",
     "filesize": 147456,
     "category": "DEMO",
+    "author": "THARO",
     "year": "2025"
   },
   {
@@ -3420,6 +3773,7 @@
     "filename": "Bio Sensor Test (V0.5) [2022-03-25 - 16.11] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2022"
   },
   {
@@ -3427,6 +3781,7 @@
     "filename": "Bio Sensor Test (V0.4) [2022-03-24 - 22.46] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2022"
   },
   {
@@ -3434,6 +3789,7 @@
     "filename": "Bio Sensor Test (V0.6) [2022-03-25 - 16.54] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2022"
   },
   {
@@ -3441,6 +3797,7 @@
     "filename": "Bio Sensor Test (V0.3) [2022-03-24 - 22.38] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2022"
   },
   {
@@ -3448,6 +3805,7 @@
     "filename": "Bio Sensor Test (V0.2) [2022-03-24 - 22.06] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "MEEQ",
     "year": "2022"
   },
   {
@@ -3455,6 +3813,7 @@
     "filename": "PIDOM DoubleBuffer Test [2021-07-31 - 05.09] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "BIGBASS",
     "year": "2021"
   },
   {
@@ -3462,6 +3821,7 @@
     "filename": "Timers [2021-11-13 - 18.01] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3469,6 +3829,7 @@
     "filename": "Timers [2021-11-13 - 17.52] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3476,6 +3837,7 @@
     "filename": "Timers [2021-11-13 - 14.24] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3483,6 +3845,7 @@
     "filename": "Timers [2021-11-13 - 17.42] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3490,6 +3853,7 @@
     "filename": "Timers [2021-11-13 - 18.22] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3497,6 +3861,7 @@
     "filename": "Timers [2021-11-13 - 17.27] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3504,6 +3869,7 @@
     "filename": "Timers [2021-11-13 - 13.21] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3511,6 +3877,7 @@
     "filename": "Timers [2021-11-13 - 13.42] [H].z64",
     "filesize": 1052672,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3518,6 +3885,7 @@
     "filename": "Timers [2021-11-13 - 18.16] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {
@@ -3525,6 +3893,7 @@
     "filename": "Timers [2021-11-13 - 17.34] [H].z64",
     "filesize": 1064960,
     "category": "DEMO",
+    "author": "RASKY",
     "year": "2021"
   },
   {

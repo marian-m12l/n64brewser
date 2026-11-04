@@ -55,7 +55,10 @@ for path in z64_files:
                     event = m.group(2)
                     data['event'] = event
         elif subcategory == 'TECH':
-            pass
+            m = re.search('.* - (.*)', split[len(split)-2])
+            if m:
+                author = m.group(1)
+                data['author'] = author
     if 'year' not in data:
         m = re.search('\\[([0-9]{4})-([0-9]{2})-([0-9]{2}).*\\]', filename)
         if m:
